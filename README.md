@@ -1,6 +1,6 @@
 # Mail-Hack #
-
 ## Getting Started ##
+
 #1 sudo apt-get install git
 #2 git clone 
 #3 cd SocialBox
