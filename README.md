@@ -1,5 +1,5 @@
 # Mail-Hack #
-## Getting Started ##
+# Getting Started #
 
 # 1 sudo apt-get install git
 # 2 git clone 
