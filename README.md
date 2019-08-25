@@ -1,6 +1,6 @@
 # Mail-Hack #
 # Getting Started #
-![alt text](https://pasteboard.co/Iuncljf.png)
+![](https://pasteboard.co/Iuncljf.png)
 ## 1 sudo apt-get install git ##
 ## 2 git clone ## 
 ## 3 cd Mail-Hack ##
