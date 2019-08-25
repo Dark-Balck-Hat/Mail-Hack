@@ -3,11 +3,11 @@
 
 ## 1 sudo apt-get install git ##
 ## 2 git clone ## 
-## 3 cd SocialBox ##
-## 4 chmod +x SocialBox.sh ##
+## 3 cd Mail-Hack ##
+## 4 chmod +x Mail-Hack.sh ##
 ## 5 chmod +x install-sb.sh ##
 ## 6 ./install-sb.sh ##
-## 7 ./SocialBox.sh ##
+## 7 ./Mail-Hack.sh ##
 
 # A linux operating system. Recommend #
 - Kali Linux 
