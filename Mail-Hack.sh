@@ -90,12 +90,12 @@ exit 1
 fi
 elif [ $ch = 3 ]; then
 echo -e "			$Cyan Instagram Brute Force$nc"
-cd instainsane/
+cd Instagram/
 sleep 0.025
 	echo -e "	[+]$red Service Tor Stated $nc[+]"
 sleep 0.9
 service tor start
-./instainsane.sh
+./Instagram.sh
 echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
 service tor stop
 echo -e "		[+]$red Service Tor Stopped$nc [+]"
