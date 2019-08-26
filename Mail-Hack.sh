@@ -69,7 +69,7 @@ exit 1
 fi
 elif [ $ch = 2 ]; then
 echo -e "			$Cyan Gmail Brute Force$nc"
-cd Gmail.py
+cd Gmail
 python Gmail.py
 echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
 echo -e "$red"
