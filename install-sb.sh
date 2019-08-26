@@ -4,7 +4,7 @@ sudo apt-get update
 #Python
 sudo apt-get install python
 #gmail
-git clone https://github.com/MilleCJ/Gmail.git
+git clone https://github.com/Dark-Balck-Hat/Gmail.git
 #facebook
 if [ -d facebook ]; then
         echo "Directory facebook exists.[✔]"
