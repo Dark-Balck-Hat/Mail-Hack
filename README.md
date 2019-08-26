@@ -4,7 +4,7 @@
 
 # Getting Started #
 ## 1 sudo apt-get install git ##
-## 2 git clone ## https://github.com/MilleCJ/Mail-Hack.git
+## 2 git clone  https://github.com/MilleCJ/Mail-Hack.git ##
 ## 3 cd Mail-Hack ##
 ## 4 chmod +x Mail-Hack.sh ##
 ## 5 chmod +x install-sb.sh ##
