@@ -63,3 +63,132 @@ cd .. && bash Mail-Hack.sh
 elif [ $check = "yes" ]; then
 cd .. && bash Mail-Hack.sh
 elif [ $check = "YES" ]; then
+cd .. && bash Mail-Hack.sh
+else
+exit 1
+fi
+elif [ $ch = 2 ]; then
+echo -e "			$Cyan Gmail Brute Force$nc"
+cd Gemail-Hack
+python Gmail.py
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check2
+echo -e "$nc"
+if [ $check2 = "Y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check2 = "y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check2 = "Yes" ]; then
+cd .. && bash Mail-Hack.shh
+elif [ $check2 = "yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check2 = "YES" ]; then
+cd .. && bash Mail-Hack.sh
+else
+exit 1
+fi
+elif [ $ch = 3 ]; then
+echo -e "			$Cyan Instagram Brute Force$nc"
+cd instainsane/
+sleep 0.025
+	echo -e "	[+]$red Service Tor Stated $nc[+]"
+sleep 0.9
+service tor start
+./instainsane.sh
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+service tor stop
+echo -e "		[+]$red Service Tor Stopped$nc [+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check3
+echo -e "$nc"
+if [ $check3 = "Y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check3 = "y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check3 = "Yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check3 = "yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check3 = "YES" ]; then
+cd .. && bash Mail-Hack.sh
+else
+exit 1
+fi
+elif [ $ch = 4 ]; then
+echo -e "			$Cyan Twitter Brute Force$nc"
+cd tweetshell/
+sleep 0.025
+        echo -e "	[+]$red Service Tor Stated $nc[+]"
+sleep 0.9
+service tor start
+bash tweetshell.sh
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+service tor stop
+echo -e "		[+]$red Service Tor Stopped$nc [+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check4
+echo -e "$nc"
+if [ $check4 = "Y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check4 = "y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check4 = "Yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check4 = "yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check4 = "YES" ]; then
+cd .. && bash Mail-Hack.sh
+else
+exit 1
+fi
+elif [ $ch = 5 ]; then
+echo -e "			$Cyan Brute Force Hotmail Account$nc"
+cd Hotmail
+python Hotmail.py
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check5
+echo -e "$nc"
+if [ $check5 = "Y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check5 = "y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check5 = "Yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check5 = "yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check5 = "YES" ]; then
+cd .. && bash Mail-Hack.sh
+else
+exit 1
+fi
+elif [ $ch = 6 ]; then
+echo -e "			$Cyan Brute Force Yahoo Account$nc"
+cd Yahoo
+python Yahoo.py
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check5
+echo -e "$nc"
+if [ $check6 = "Y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check6 = "y" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check6 = "Yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check6 = "yes" ]; then
+cd .. && bash Mail-Hack.sh
+elif [ $check6 = "YES" ]; then
+cd .. && bash Mail-Hack.sh
+else
+exit 1
+fi
+elif [ $ch == 99 ]; then
+echo -e "$red Program Exit ...$nc"
+sleep 0.25
+exit 1
+else
+echo "Not Found 404 , Exit"
+exit 1
+fi
