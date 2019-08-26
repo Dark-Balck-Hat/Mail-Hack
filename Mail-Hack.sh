@@ -114,12 +114,12 @@ exit 1
 fi
 elif [ $ch = 4 ]; then
 echo -e "			$Cyan Twitter Brute Force$nc"
-cd tweetshell/
+cd Twitter/
 sleep 0.025
         echo -e "	[+]$red Service Tor Stated $nc[+]"
 sleep 0.9
 service tor start
-bash tweetshell.sh
+bash Twitter.sh
 echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
 service tor stop
 echo -e "		[+]$red Service Tor Stopped$nc [+]"
