@@ -15,9 +15,9 @@ else
 	cd ..
 fi
 #Instagram
-git clone https://github.com/thelinuxchoice/instainsane.git
-cd instainsane
-chmod +x instainsane.sh
+git clone https://github.com/MilleCJ/Instagram.git
+cd Instagram
+chmod +x Instagram.sh
 chmod +x install.sh
 sudo ./install.sh
 cd ..
