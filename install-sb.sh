@@ -22,9 +22,9 @@ chmod +x install.sh
 sudo ./install.sh
 cd ..
 #Twitter
-git clone https://github.com/thelinuxchoice/tweetshell.git
-cd tweetshell
-chmod +x tweetshell.sh
+git clone https://github.com/MilleCJ/Twitter.git
+cd Twitter
+chmod +x Twitter.sh
 chmod +x install.sh
 sudo ./install.sh
 cd ..
