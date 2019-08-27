@@ -11,7 +11,7 @@ if [ -d facebook ]; then
 else
 	mkdir facebook
 	cd facebook
-	wget raw.githubusercontent.com/Sup3r-Us3r/scripts/master/fb-brute.pl
+	wget https://github.com/Dark-Balck-Hat/facebook.git
 	cd ..
 fi
 #Instagram
