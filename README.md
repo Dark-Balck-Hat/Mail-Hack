@@ -1,5 +1,10 @@
 # Mail-Hack it doesn't work 100% in now #
 
+# does not work in now #
+- Twitter
+- yahoo
+- Hotmail
+
 <a href="https://ibb.co/wLfDK5K"><img src="https://i.ibb.co/wLfDK5K/Screenshot-from-2019-08-25-13-14-36.png" alt="Screenshot-from-2019-08-25-13-14-36" border="0"></a>
 
 # Getting Started #
