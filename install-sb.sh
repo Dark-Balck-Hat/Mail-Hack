@@ -25,11 +25,13 @@ sudo ./install.sh
 cd ..
 fi
 #Hotmail
+mkdir Hotmail
 git clone https://github.com/Dark-Balck-Hat/Hotmail.git
 cd Hotmail
 python Hotmail.py
 fi
 #Yahoo
+mkdir Yahoo
 git clone https://github.com/Dark-Balck-Hat/Yahoo.git
 cd Yahoo
 python Yahoo.py
