@@ -23,5 +23,5 @@ chmod +x Instagram.sh
 chmod +x install.sh
 sudo ./install.sh
 cd ..
-#Twitter
+
 
