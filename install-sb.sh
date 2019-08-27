@@ -25,6 +25,6 @@ cd ..
 git clone https://github.com/Dark-Balck-Hat/Twitter.gitt
 cd Twitter
 chmod +x Twitter.sh
-chmod +x install.sh
-sudo ./install.sh
+chmod +x install-sb.sh
+sudo ./install-sb.sh
 cd ..
