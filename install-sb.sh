@@ -3,6 +3,8 @@
 sudo apt-get update 
 #Python
 sudo apt-get install python
+#Python3
+apt-get install git python3-pip python python-pip
 #gmail
 git clone https://github.com/Dark-Balck-Hat/Gmail.git
 #facebook
