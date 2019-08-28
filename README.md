@@ -9,7 +9,6 @@
 ## 6 Yahoo ##
 
 # does not work in now #
-- Twitter
 
 <a href="https://ibb.co/wLfDK5K"><img src="https://i.ibb.co/wLfDK5K/Screenshot-from-2019-08-25-13-14-36.png" alt="Screenshot-from-2019-08-25-13-14-36" border="0"></a>
 
