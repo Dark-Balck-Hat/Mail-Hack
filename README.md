@@ -11,7 +11,7 @@
 ## 6 Yahoo ##
 
 # does not work in now #
-
+## all Work ##
 
 # Getting Started #
 ## 1 sudo apt-get install git ##
