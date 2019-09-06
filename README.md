@@ -14,7 +14,6 @@
 ## 7☠️ DDOS ##
 
 # does not work in now #
-## 7☠️ DDOS ##
 
 # Getting Started #
 ## 1 sudo apt-get install git ##
