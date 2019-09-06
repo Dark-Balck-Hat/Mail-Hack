@@ -3,15 +3,16 @@
 <a href="https://ibb.co/wLfDK5K"><img src="https://i.ibb.co/wLfDK5K/Screenshot-from-2019-08-25-13-14-36.png" alt="Screenshot-from-2019-08-25-13-14-36" border="0"></a>
 
 # Information #
-## 1 Facebook ##
-## 2 Gmail ##
+## 1🤬️ Facebook ##
+## 2📧️ Gmail ##
 ## 3 Instagram ##
 ## 4 Twitter ##
-## 5 Hotmail ##
-## 6 Yahoo ##
+## 5📧️ Hotmail ##
+## 6📧️ Yahoo ##
+## 7☠️ DDOS ##
 
 # does not work in now #
-## all Work ##
+## 7☠️ DDOS ##
 
 # Getting Started #
 ## 1 sudo apt-get install git ##
