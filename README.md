@@ -1,6 +1,6 @@
 # Mail-Hack it doesn't work 100% in now #
 # Legal disclaimer #
-## Usage of DDoSTor for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all  applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program ##
+## Usage of Mail-Hack for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all  applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program ##
 
 <a href="https://ibb.co/wLfDK5K"><img src="https://i.ibb.co/wLfDK5K/Screenshot-from-2019-08-25-13-14-36.png" alt="Screenshot-from-2019-08-25-13-14-36" border="0"></a>
 
